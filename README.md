@@ -1,2 +1,2 @@
-# Public
+HiFi-YOLO
 HiFi-YOLO
